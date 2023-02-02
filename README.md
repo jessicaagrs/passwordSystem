@@ -14,7 +14,7 @@ Esse projeto reúne alguns conhecimentos das linguagens mencionadas como:
 
 ## Como visualizar
 
-Acesse https://jessicaagrs.github.io/projeto_Calendario_javascript/
+Acesse https://jessicaagrs.github.io/projeto_sistemaSenhas_javascript/
 
 ## Tecnologias Utilizadas
 

@@ -32,7 +32,7 @@ Status do Projeto: :heavy_check_mark: <!-- > :heavy_check_mark:--> Concluído <!
 
 ## Funcionalidades :wrench:
 
-:heavy_check_mark: Gerar senhas de no mínimo a 6 a no máxima 24 caracteres.
+:heavy_check_mark: Gerar senhas de no mínimo 6 a no máxima 24 caracteres.
 
 :heavy_check_mark: Usar letras maiúsculas ou minúsculas, números e símbolos.
 

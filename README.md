@@ -58,7 +58,7 @@ git clone https://github.com/jessicaagrs/projeto_sistemaSenhas_javascript.git
 
 ```
 
-> Link para execução do projeto no browser: https://jessicaagrs.github.io/frontend_projetoSistemaSenhas/
+> [ACESSAR APP WEB](https://password-system.vercel.app/)
 
 <!-- ## Como rodar os testes
 
